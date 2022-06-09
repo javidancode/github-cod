@@ -1,0 +1,13 @@
+ pwd-harada oldugumuzu gosterir
+
+ cd-foldere getmek istediyimiz 
+
+ cd ../ -geri qayitmaq
+
+ mkdir-folder yaratmaq
+ 
+ touch-txt folder yaratmaq
+
+ rmdir-bos folder silmek
+
+ rm-bos txt folder silmek 

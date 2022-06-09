@@ -1,0 +1,17 @@
+ [esas]git init-ilk acilanda olmalidir
+
+ git add.-folderlerin hamsin secmek
+
+ git commit -m "added bio table"
+
+ git remote add origin-hithub folder linki kopyala yapistir{ilk defe}
+
+ git push -u origin master-tamamla gonder{ilk defe}
+
+
+
+
+
+ git log-elediylerimiz deyisiklere baxa bilirik[commintlere]
+
+ git status-yarim qalan isleri gosterir
